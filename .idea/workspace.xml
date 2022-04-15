@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f25648f1-c072-4139-82a5-7e0376548bfd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../pythonProject1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pythonProject1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../pythonProject1/Git.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pythonProject1/Git.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../pythonProject1/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../pythonProject1/report/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +11,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24xQXxSUwL131uTMMJhUcFtMr89" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
@@ -62,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644569801173</updated>
       <workItem from="1644569804477" duration="1269000" />
+      <workItem from="1650006484821" duration="669000" />
     </task>
     <servers />
   </component>
