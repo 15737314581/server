@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/api/test')
 def hello_world():
     '''
-    测试接口
+    测试接口123
     :return: success
     '''
     return 'success'
