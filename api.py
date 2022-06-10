@@ -11,7 +11,7 @@ def hello_world():
     测试接口1234569999
     :return: success
     '''
-    return 'success666'
+    return 'success777'
 
 
 if __name__ == '__main__':
